@@ -1,7 +1,7 @@
 {
   "name": "example-react-xstate",
   "version": "0.1.0",
-  "homepage": "https://mogsie.github.io/react-sample-app",
+  "homepage": "https://mogsie.github.io/react-xstate-sample-app",
   "private": true,
   "dependencies": {
     "fetch-jsonp": "^1.1.3",
